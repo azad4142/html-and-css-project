@@ -1,0 +1,160 @@
+/* Home page section css start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+/* navbar section css start  */
+.custom-nav{
+    background: #1D5472;
+}
+.nav-img-heigth{
+    max-height: 60px;
+}
+
+/* navbar section css end  */
+/* service section css start  */
+.service{
+    background: #2D6E92;
+}
+.card-her-bg{
+    background: #1D5472;
+    color: #ddb606;
+}
+.border-none{
+    border: none;
+}
+/* service section css end  */
+/* bulk sms section start  */
+.font-color{
+    color: #1D5472;
+}
+.hover:hover{
+    background: #e6eaec;
+}
+.fonts{
+    font-size: 15px !important;
+}
+.feat{
+    color: #c2c5c7;
+}
+/* price section css start  */
+.price{
+    background: #2D6E92 !important;
+}
+.col-bg{
+    background: #2E7AA4;
+}
+.card-bg{
+    background: #116390;
+}
+/* price section css end  */
+/* contact us section start  */
+.fx3{
+    font-size: 25px;
+    color: #1D5472;
+}
+.btn-primaxry{
+    background: #2D6E92;
+    color: #fff;
+    font-size: 25px;
+    
+}
+.btn-primaxry:hover{
+    color: #fff !important;
+    margin-left: 0 auto;
+}
+/* contact us section end  */
+/* footer section css start  */
+.footer{
+    background: #2D6E92;
+}
+.bulk{
+    font-size: 15px;
+}
+/* .footer section css end  */
+/* copyright section css start  */
+.copyright{
+    background: #1D5472 !important;
+}
+/* Home page section css end  */
+.about-section{
+    text-align: justify;
+    font-size: 20px;
+}
+.class{
+    margin-bottom: 160px;
+}
+/* About page section css start  */
+/* price page section css start  */
+table{
+    border: 1px solid #000;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr, td{
+    border: 1px solid #000;
+    text-align: center;
+}
+.font-table{
+    font-size: 20px;
+}
+.font-red{
+    color: #E50F71;
+}
+.bkash-img{
+    max-height: 550px;
+}
+.ab{
+    height: 50px;
+    width: 50px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 10px;
+    margin: auto;
+}
+/* price plan page section end  */
+/* Login page section css start  */
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-size{
+    height: 450px;
+    width: 350px;
+    background: #2E6E92;
+}
+
+
+
+
+
+
+/* top to bottom scrolvar css section start  */
+#scrolltop{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    color: #fff;
+    background: #777722;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    font-size: 36px;
+    display: none;
+}
